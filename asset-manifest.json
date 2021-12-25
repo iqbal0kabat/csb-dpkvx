@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/main.5a2863ee.chunk.js",
+    "main.js.map": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/main.5a2863ee.chunk.js.map",
+    "runtime-main.js": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/runtime-main.6fe9d6a0.js",
+    "runtime-main.js.map": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/runtime-main.6fe9d6a0.js.map",
+    "static/css/2.42f61bba.chunk.css": "https://iqbal0kabat.github.io/csb-dpkvx/static/css/2.42f61bba.chunk.css",
+    "static/js/2.0b5e9ca8.chunk.js": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/2.0b5e9ca8.chunk.js",
+    "static/js/2.0b5e9ca8.chunk.js.map": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/2.0b5e9ca8.chunk.js.map",
+    "index.html": "https://iqbal0kabat.github.io/csb-dpkvx/index.html",
+    "static/css/2.42f61bba.chunk.css.map": "https://iqbal0kabat.github.io/csb-dpkvx/static/css/2.42f61bba.chunk.css.map",
+    "static/js/2.0b5e9ca8.chunk.js.LICENSE.txt": "https://iqbal0kabat.github.io/csb-dpkvx/static/js/2.0b5e9ca8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe9d6a0.js",
+    "static/css/2.42f61bba.chunk.css",
+    "static/js/2.0b5e9ca8.chunk.js",
+    "static/js/main.5a2863ee.chunk.js"
+  ]
+}
